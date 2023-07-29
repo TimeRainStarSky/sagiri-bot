@@ -221,8 +221,8 @@ tz = ["python-dateutil"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "anyio"
@@ -247,8 +247,8 @@ trio = ["trio (<0.22)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "async-timeout"
@@ -459,8 +459,8 @@ files = [
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "certifi"
@@ -832,8 +832,8 @@ python-dateutil = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "cssselect"
@@ -882,8 +882,8 @@ dev = ["black", "coveralls", "mypy", "pre-commit", "pylint", "pytest (>=5)", "py
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "decorator"
@@ -1005,8 +1005,8 @@ test = ["anyio[trio] (>=3.2.1,<4.0.0)", "black (==23.1.0)", "coverage[toml] (>=6
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "filelock"
@@ -1710,8 +1710,8 @@ protobuf = ["grpcio-tools (>=1.54.2)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "h11"
@@ -1752,8 +1752,8 @@ socks = ["socksio (==1.*)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "httptools"
@@ -1838,8 +1838,8 @@ socks = ["socksio (==1.*)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "identify"
@@ -1909,8 +1909,8 @@ tifffile = ["tifffile"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "imageio-ffmpeg"
@@ -2852,8 +2852,8 @@ setuptools = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "noneprompt"
@@ -3170,8 +3170,8 @@ socks = ["socksio (>=1.0.0,<2.0.0)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pil-utils"
@@ -3323,8 +3323,8 @@ pyee = "9.0.4"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pooch"
@@ -3372,8 +3372,8 @@ virtualenv = ">=20.10.0"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "prompt-toolkit"
@@ -3418,8 +3418,8 @@ files = [
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "psutil"
@@ -3546,8 +3546,8 @@ files = [
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pydantic"
@@ -3603,8 +3603,8 @@ email = ["email-validator (>=1.0.3)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pyee"
@@ -3661,8 +3661,8 @@ pyyaml = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pyparsing"
@@ -3719,8 +3719,8 @@ files = [
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "pypng"
@@ -4147,8 +4147,8 @@ use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "requests-oauthlib"
@@ -4380,8 +4380,8 @@ testing-integration = ["build[virtualenv]", "filelock (>=3.4.0)", "jaraco.envs (
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "six"
@@ -4554,8 +4554,8 @@ sqlcipher = ["sqlcipher3-binary"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "starlette"
@@ -4576,8 +4576,8 @@ full = ["httpx (>=0.22.0)", "itsdangerous", "jinja2", "python-multipart", "pyyam
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "statv"
@@ -4870,10 +4870,10 @@ files = [
 ]
 
 [package.dependencies]
-nvidia-cublas-cu11 = {version = "11.10.3.66", markers = "platform_machine == 'x86_64'"}
-nvidia-cuda-nvrtc-cu11 = {version = "11.7.99", markers = "platform_machine == 'x86_64'"}
-nvidia-cuda-runtime-cu11 = {version = "11.7.99", markers = "platform_machine == 'x86_64'"}
-nvidia-cudnn-cu11 = {version = "8.5.0.96", markers = "platform_machine == 'x86_64'"}
+nvidia-cublas-cu11 = {version = "11.10.3.66", markers = "platform_system == \"Linux\""}
+nvidia-cuda-nvrtc-cu11 = {version = "11.7.99", markers = "platform_system == \"Linux\""}
+nvidia-cuda-runtime-cu11 = {version = "11.7.99", markers = "platform_system == \"Linux\""}
+nvidia-cudnn-cu11 = {version = "8.5.0.96", markers = "platform_system == \"Linux\""}
 typing-extensions = "*"
 
 [package.extras]
@@ -4965,8 +4965,8 @@ files = [
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "uc-micro-py"
@@ -5433,8 +5433,8 @@ pillow = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.org/simple"
-reference = "pypi-public"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+reference = "USTC"
 
 [[package]]
 name = "yapf"
